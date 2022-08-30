@@ -8,8 +8,12 @@
 
 Implementation of State and Cell class and succssorFunction
 
-![Screenshot](Q1.png)
+![Screenshot](files/Q1.png)
 
-### <ins> 2) Naïve Bayes & Perceptron </ins> 
+### <ins> 2.1) Naïve Bayes</ins> 
 
-Optical character recognition 
+![Screenshot](files/Q2-NaiveBayes.png)
+
+### <ins> 2.2) Perceptron </ins> 
+
+![Screenshot](files/Q2-Perceptron.png)
